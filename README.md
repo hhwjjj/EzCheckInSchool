@@ -9,7 +9,7 @@
 - 打卡时间:06:05,12:35,21:05🕑
 
 **Github Actions定时任务可能出现几分钟的误差**
-
+     
 **推荐迁移到腾讯云云函数，修改`input()`为对应字符串后设置定时触发器即可**
 
 ## 更新日志
@@ -88,7 +88,7 @@ Fork的项目->Action->I understand... 开启Actions
 
 ## 友情链接
 
-https://github.com/YooKing/HAUT_autoCheck - 学习Python语法参考
+https://github.com/YooKing/HAUT_autoCheck - 学习        Python语法参考
 
 https://github.com/LovelyWhite/Haut-AutoCheckin - iOS捷径版
 
